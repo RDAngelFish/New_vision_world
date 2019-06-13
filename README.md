@@ -6,10 +6,10 @@
 Contents
 --------
 - [Introduction](#Introduction)
-- [Hardware Setup](#Hardware Setup)
-- [Software Setup](#Software Setup)
+- [Hardware Setup](#Hardware-Setup)
+- [Software Setup](#Software-Setup)
 - [Architecture](#Architecture)
-- [User Manual](#User Manual)
+- [User Manual](#User-Manual)
 
 ## Introduction
 
