@@ -14,6 +14,17 @@ Contents
 ## Introduction
 ![Flow](images/Flow.JPG)
 
+* Kinect camera 
+
+to get RGB information
+
+* OpenPose
+* USB-FTDI Driver
+* Support vector machines(SVM)
+* ARC
+* WIFI – TCP/IP 
+* HoloLens
+
 ## Hardware Setup
 
 ## Software Setup
