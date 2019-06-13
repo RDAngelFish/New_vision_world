@@ -1,7 +1,7 @@
 # New Vision World
   Welcome to New Vision World! 
   
-  We are ready to show you what does the New Vision World means.
+  We are ready to show you how New Vision World works.
   
 Contents
 --------
@@ -14,9 +14,8 @@ Contents
 ## Introduction
 ![Flow](images/Flow.JPG)
 
-* Kinect camera 
-
-to get RGB information
+* Kinect for Xbox 360 (Kinect) camera 
+  Kinect is created by MicoSoft and it has three lens. We use kinect to get real-time RGB information for each image. Before we driver kinect, we use Open Natural Interface(OpenNI) library to achieve our target.
 
 * OpenPose
 * USB-FTDI Driver
