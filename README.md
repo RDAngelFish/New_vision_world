@@ -15,6 +15,7 @@ Contents
 ![Flow](images/Flow.JPG)
 
 * Kinect for Xbox 360 (Kinect) camera 
+
   Kinect is created by MicoSoft and it has three lens. We use kinect to get real-time RGB information for each image. Before we driver kinect, we use Open Natural Interface(OpenNI) library to achieve our target.
 
 * OpenPose
