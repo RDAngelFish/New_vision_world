@@ -12,7 +12,7 @@ Contents
 - [User Manual](#User-Manual)
 
 ## Introduction
-
+![flow](images/flow.JPG)
 
 ## Hardware Setup
 
