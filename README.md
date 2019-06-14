@@ -50,6 +50,8 @@ Contents
   
 ## Software Setup
 
+* ARC GNU Toolchain
+
 * OpenPose
 
     [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.It is authored by Gines Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Hanbyul Joo, and Yaser Sheikh. Currently, it is being maintained by Gines Hidalgo and Yaadhav Raaj. It has been widely used in many applications. Here, in order to verify different instruments, we gonna use these body and hands information to do SVM training and testing.  The skeleton of body and keypoints of hands are following:
