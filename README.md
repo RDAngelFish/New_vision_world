@@ -52,13 +52,13 @@ Contents
   
   1. Start the ARC to transfer or read data.
   
-    ![ARC_start](images/ARC_start.jpg)
+      ![ARC_start](images/ARC_start.jpg)
   
-  2. Sure connect correctly and start to recieve data.
+  2. Sure to connect correctly and start to recieve data.
   
-    ![ARC_result0](images/ARC_result0.png)
+      ![ARC_result0](images/ARC_result0.png)
   
-    ![ARC_result1](images/ARC_result1.jpg)
+      ![ARC_result1](images/ARC_result1.jpg)
   
   
 
