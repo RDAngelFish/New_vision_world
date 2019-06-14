@@ -20,7 +20,8 @@ Contents
   System begins in Kinect camera to get RGB information of image. Through the open source called OpenPose, we can generate skeleton of body and keypoints of two hands. Then the computer outputs these information to ARC and doing SVM algorithm to verify each instrument with many different sounds. After getting the result of verification and sounds, we output the data to HoloLens to have a real stage to perform every instuments. The main flow is following:
   
 ![Flow](images/Flow.JPG)
-<div align="center">![ARC_demo](images/ARC_demo.gif)</div>
+<div align="center"><img width="150" height="150" src="images/ARC_demo.gif"></div>
+![ARC_demo](images/ARC_demo.gif)
   
 ## Hardware Setup
 
