@@ -21,7 +21,6 @@ Contents
   
 ![Flow](images/Flow.JPG)
 <div align="center"><img width="300" height="300" src="images/ARC_demo.gif"></div>
-![ARC_demo](images/ARC_demo.gif)
   
 ## Hardware Setup
 
