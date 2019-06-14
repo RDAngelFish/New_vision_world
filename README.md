@@ -27,7 +27,7 @@ Contents
 
 * OpenPose
 
-    OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.It is authored by Gines Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Hanbyul Joo, and Yaser Sheikh. Currently, it is being maintained by Gines Hidalgo and Yaadhav Raaj. It has been widely used in many applications. Here, in order to verify different instruments, we gonna use these body and hands information to do SVM training and testing.  The skeleton of body and keypoints of hands are following:
+    [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.It is authored by Gines Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Hanbyul Joo, and Yaser Sheikh. Currently, it is being maintained by Gines Hidalgo and Yaadhav Raaj. It has been widely used in many applications. Here, in order to verify different instruments, we gonna use these body and hands information to do SVM training and testing.  The skeleton of body and keypoints of hands are following:
    
    ![OpenPose_skeleton](images/OpenPose_skeleton.png)
 
@@ -37,6 +37,9 @@ Contents
   It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.](https://www.intra2net.com/en/developer/libftdi/download.php)
   
 * Support vector machines(SVM)
+  A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side.
+  放分類圖
+  
 * ARC
 * WIFI – TCP/IP 
 * HoloLens
