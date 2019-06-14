@@ -45,9 +45,14 @@ Contents
   
 * ARC
 
+  [See toolchain for much more detail.](https://github.com/foss-for-synopsys-dwc-arc-processors)
 
 * WIFI – TCP/IP 
 
+  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. The flow is following:
+
+  ![WIFI](images/WIFI.png)
+  
 * HoloLens
 
   Microsoft HoloLens is an Augmented Reality (AR) device developed by Microsoft. It is part of the Windows Mixed Reality AR Platform incorporated with Windows 10 OS. Similar to other OHMDs (optical head-mounted displays), HoloLens is a see-through display worn over your eyes. Unlike the Oculus Rift and other VR Devices, the eye-piece component of HoloLens is transparent and the headset requires neither PC nor smartphone. It is able to project high-definition (HD) virtual content or holograms over real world objects. 
