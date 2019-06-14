@@ -29,9 +29,8 @@ Contents
 
     OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.It is authored by Gines Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Hanbyul Joo, and Yaser Sheikh. Currently, it is being maintained by Gines Hidalgo and Yaadhav Raaj. It has been widely used in many applications 
     
-<div align=center>
 ![OpenPose_skeleton](images/OpenPose_skeleton.png)
-</div>
+
 
 * USB-FTDI Driver
 
