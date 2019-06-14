@@ -34,7 +34,8 @@ Contents
 
 * USB-FTDI Driver
 
-  We need to transfer data between the computer and ARC through USB. 
+  It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.]  (https://www.intra2net.com/en/developer/libftdi/download.php)
+  
 * Support vector machines(SVM)
 * ARC
 * WIFI – TCP/IP 
