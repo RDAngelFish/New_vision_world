@@ -63,7 +63,7 @@ int main(void)
             voice_info |= 0x1 << 31;
             for (int i = 0; i < 10; i++)
             {
-                if(real_data[2*i + 3] > 355)    //y
+                if(real_data[2*i + 3] > 400)    //y
                 {
                     //bound
                     if(real_data[2*i + 2] < 54)                     //left bound 320 - 14 * 19
