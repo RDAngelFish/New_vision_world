@@ -18,17 +18,8 @@ Contents
 * Flow chart
 
   System begins in Kinect camera to get RGB information of image. Through the open source called OpenPose, we can generate skeleton of body and keypoints of two hands. Then the computer outputs these information to ARC and doing SVM algorithm to verify each instrument with many different sounds. After getting the result of verification and sounds, we output the data to HoloLens to have a real stage to perform every instuments. The main flow is following:
-
-
+  
 ![Flow](images/Flow.JPG)
-
-
-
-* WIFI – TCP/IP 
-
-  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. The flow is following:
-
-  ![WIFI](images/WIFI.png)
   
 ## Hardware Setup
 
@@ -76,9 +67,14 @@ Contents
 
   SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train model with 600 datas to three catrgories. The results with different setting of kernel is following:
   
-  ![OpenPose_skeleton](images/OpenPose_skeleton.png)
-  
-  
+  ![SVM_result](images/SVM_result.png)
+
+* WIFI – TCP/IP 
+
+  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. The flow is following:
+
+  ![WIFI](images/WIFI.png)
+ 
 ## Architecture
 
 ## User Manual
