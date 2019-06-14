@@ -37,6 +37,10 @@ Contents
 
   It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.](https://www.intra2net.com/en/developer/libftdi/download.php)
   
+  It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.](https://www.intra2net.com/en/developer/libftdi/download.php)
+  
+  ![ARC_USB](images/ARC_USB.jpg)
+  
 * Support vector machines(SVM)
 
   SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train model with 600 datas to three catrgories. The results with different setting of kernel is following:
@@ -46,6 +50,18 @@ Contents
 * ARC
 
   [See toolchain for much more detail.](https://github.com/foss-for-synopsys-dwc-arc-processors)
+  
+  1. Start the ARC to transfer or read data.
+  
+  ![ARC_start](images/ARC_start.jpg)
+  
+  2. Sure connect correctly and start to recieve data.
+  
+  ![ARC_result0](images/ARC_result0.png)
+  
+  ![ARC_result1](images/ARC_result1.jpg)
+  
+  
 
 * WIFI – TCP/IP 
 
