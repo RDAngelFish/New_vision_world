@@ -39,14 +39,21 @@ Contents
   
 * Support vector machines(SVM)
 
-  SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train madel with 600 datas to three catrgories. The results with different setting of kernel is following:
+  SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train model with 600 datas to three catrgories. The results with different setting of kernel is following:
   
   ![OpenPose_skeleton](images/OpenPose_skeleton.png)
   
 * ARC
+
+
 * WIFI – TCP/IP 
+
 * HoloLens
 
+  Microsoft HoloLens is an Augmented Reality (AR) device developed by Microsoft. It is part of the Windows Mixed Reality AR Platform incorporated with Windows 10 OS. Similar to other OHMDs (optical head-mounted displays), HoloLens is a see-through display worn over your eyes. Unlike the Oculus Rift and other VR Devices, the eye-piece component of HoloLens is transparent and the headset requires neither PC nor smartphone. It is able to project high-definition (HD) virtual content or holograms over real world objects. 
+
+  ![HoloLens](images/HoloLens.png)
+  
 ## Hardware Setup
 
 ## Software Setup
