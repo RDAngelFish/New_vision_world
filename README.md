@@ -37,8 +37,6 @@ Contents
 
   It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.](https://www.intra2net.com/en/developer/libftdi/download.php)
   
-  It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.](https://www.intra2net.com/en/developer/libftdi/download.php)
-  
   ![ARC_USB](images/ARC_USB.jpg)
   
 * Support vector machines(SVM)
@@ -51,15 +49,16 @@ Contents
 
   [See toolchain for much more detail.](https://github.com/foss-for-synopsys-dwc-arc-processors)
   
+  
   1. Start the ARC to transfer or read data.
   
-  ![ARC_start](images/ARC_start.jpg)
+    ![ARC_start](images/ARC_start.jpg)
   
   2. Sure connect correctly and start to recieve data.
   
-  ![ARC_result0](images/ARC_result0.png)
+    ![ARC_result0](images/ARC_result0.png)
   
-  ![ARC_result1](images/ARC_result1.jpg)
+    ![ARC_result1](images/ARC_result1.jpg)
   
   
 
@@ -82,10 +81,6 @@ Contents
 ## Architecture
 
 ## User Manual
-
-
-https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
-
 
 
 
