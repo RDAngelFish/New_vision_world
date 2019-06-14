@@ -72,7 +72,7 @@ Contents
 
   Microsoft HoloLens is an Augmented Reality (AR) device developed by Microsoft. It is part of the Windows Mixed Reality AR Platform incorporated with Windows 10 OS. Similar to other OHMDs (optical head-mounted displays), HoloLens is a see-through display worn over your eyes. Unlike the Oculus Rift and other VR Devices, the eye-piece component of HoloLens is transparent and the headset requires neither PC nor smartphone. It is able to project high-definition (HD) virtual content or holograms over real world objects. 
 
-  ![HoloLens](images/HoloLens.png)
+  ![](images/HoloLens.png =100x100)
   
 ## Hardware Setup
 
