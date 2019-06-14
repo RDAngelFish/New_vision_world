@@ -23,10 +23,10 @@ System begins in Kinect camera to get RGB information of image. Through the open
 
 * Kinect for Xbox 360 (Kinect) camera 
 
-  Kinect is created by MicroSoft and it has three lens. We use kinect to get real-time RGB information for each image. Before we driver kinect, we use Open Natural Interface(OpenNI) library to achieve our target.
+  Kinect is created by Microsoft and it has three lens. We use kinect to get real-time RGB information for each image. Before we driver kinect, we use the library called Open Natural Interface(OpenNI) to finish driving.
 
 * OpenPose
-
+  
 * USB-FTDI Driver
 * Support vector machines(SVM)
 * ARC
