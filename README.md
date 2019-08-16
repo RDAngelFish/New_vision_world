@@ -86,10 +86,10 @@ Contents
 
 ## User Manual
 
-* Required hardware
+### Required hardware
 
 
-* Required software
+### Required software
 
 
 
