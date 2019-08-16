@@ -10,8 +10,11 @@ Contents
 - [Software Setup](#Software-Setup)
 - [Architecture](#Architecture)
 - [User Manual](#User-Manual)
-    -[Required hardware](#Required-hardware)
-    -[Required software](#Required-software)
+    - [Required hardware](#Required-hardware)
+    - [Required software](#Required-software)
+        - [FTDI FT2232 dirver](#ftdi-ft2232-dirver)
+        - [OpenNI](#openni)
+
 ## Introduction
 
   Due to the development of science and technology, people's concept of musical instruments of various forms has gradually changed. The somatosensory technology combined with character motion sensing and hand gesture recognition is the trend in the future. Therefore, it is thought to apply finger recognition to virtual playing instruments. This work combines the possibilities of technology and music multimedia.
