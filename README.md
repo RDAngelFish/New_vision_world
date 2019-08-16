@@ -87,10 +87,17 @@ Contents
 ## User Manual
 
 ### Required hardware
-
+* ARC IoT Development Kit (IoTDK) 
+* ESP8266 Wi-Fi module
+* FTDI FT2232 USB to UART module
+* Camera (Kinect or any other webcam)
+* HoloLens
 
 ### Required software
-
+* ARC GNU Toolchain
+* OPENNI (for kinect camera here)
+* OpenPose (please ckilk [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements)
+* LIBSVM (a library for Support Vector Machines) 
 
 
 
