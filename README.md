@@ -82,7 +82,10 @@ Contents
 
 ## User Manual
 
+* Required hardware
 
+
+* Required software
 
 
 
