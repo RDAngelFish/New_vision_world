@@ -6,7 +6,7 @@
 
   
 # Contents
---------
+
 - [Introduction](#Introduction)
     - [Function](#Function)
     - [Architecture](#Architecture)
