@@ -1,7 +1,8 @@
 # New Vision World
   Welcome to New Vision World! 
   
-  We are ready to show you how New Vision World works. ::
+  We are ready to show you how New Vision World works. 
+  :smile:
   
 Contents
 --------
