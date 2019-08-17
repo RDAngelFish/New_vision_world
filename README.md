@@ -5,7 +5,7 @@
   We are ready to show you how New Vision World works. 
 
   
-Contents
+# Contents
 --------
 - [Introduction](#Introduction)
     - [Function](#Function)
