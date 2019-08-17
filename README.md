@@ -69,17 +69,6 @@
 
   See [toolchain](https://github.com/foss-for-synopsys-dwc-arc-processors) and GNU Toolchain for much more detail.
   
-  
-  1. Start the ARC to transfer or read data.
-  
-      ![ARC_start](images/ARC_start.jpg)
-  
-  2. Sure to connect correctly and start to recieve data.
-  
-      ![ARC_result0](images/ARC_result0.png)
-  
-      ![ARC_result1](images/ARC_result1.jpg)
-  
 * USB-FTDI module
 
   It needs to transfer data between the computer and ARC through USB. We choose FT2232HL chip to transfer. [See the document we use.](https://www.intra2net.com/en/developer/libftdi/download.php)
@@ -125,6 +114,18 @@
 
 ## Run This Application
 1. Run ARC
+
+  
+  * Start the ARC to transfer or read data.
+  
+      ![ARC_start](images/ARC_start.jpg)
+  
+  * Sure to connect correctly and start to recieve data.
+  
+      ![ARC_result0](images/ARC_result0.png)
+  
+      ![ARC_result1](images/ARC_result1.jpg)
+  
 2. Connect HoloLens
 3. Run python code
 
