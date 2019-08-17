@@ -115,11 +115,10 @@
 ## Before Running This Application
 * You need to install:
 1. ARC GNU Toolchain
-2. OpenNI
-  + You can include (/OpenNI) to your file or go to [github](https://github.com/avin2/SensorKinect) for more detail.
-3. pybind
+2. OpenNI for Kinect: You can include (/OpenNI) to your file or go to [github](https://github.com/avin2/SensorKinect) for more detail.
+3. Pybind for FTDI: Download (path) to finish binding c program and python to do FTDI and more detail of FTDI FT2232 driver with [libftdi](https://www.intra2net.com/en/developer/libftdi/index.php)
 4. OpenPose
-5. LIBSVM 
+5. LIBSVM for SVM: 
 
 ## Run This Application
 
