@@ -13,7 +13,8 @@
 - [Hardware and Software Setup](#Hardware-and-Software-Setup)
     - [Required Hardware](#Required-Hardware)
     - [Required Software](#Required-Software)
-    - [Setup detail](#Setup-detail)
+    - [Hardware Connection](#Hardware-Connection)    
+    - [Component detail](#Component-detail)
 - [User Manual](#User-Manual)
     - [Before Running This Application](#before-running-this-application)
     - [Run This Application](#run-this-application)
@@ -49,7 +50,9 @@
 * OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements), and check GPU performance [here](https://docs.google.com/spreadsheets/d/1-DynFGvoScvfWDA1P4jDInCkbD4lg0IKOYbXgEq0sK0/edit#gid=0). We use GTX 1080 in this project.
 * [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (a library for Support Vector Machines) 
 
-## Setup detail
+## Hardware Connection
+
+## Component detail
 
 * Kinect for Xbox 360 (Kinect) camera 
 
