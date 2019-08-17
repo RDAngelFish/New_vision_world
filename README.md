@@ -51,6 +51,13 @@
 * [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (a library for Support Vector Machines) 
 
 ## Hardware Connection
+1. Connect Kinect camera to PC (USB port) and power-supply 
+2. Connect ESP8266 Wi-Fi module to ARC
+3. Connect ARC IoT Development Kit (IoTDK) to PC (USB port) and power-supply 
+4. Connect FTDI FT2232 USB to UART module to PC (USB port)
+5. Connect HoloLens to communicate with ARC
+6. Configure .........
+放接線圖
 
 ## Component detail
 
