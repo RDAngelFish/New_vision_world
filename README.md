@@ -42,7 +42,7 @@
 * ESP8266 Wi-Fi module
 * FTDI FT2232 USB to UART module
 * Camera (Kinect or any other webcam)
-* HoloLens
+* Client (HoloLens, etc.) 
 
 ## Required Software
 * ARC GNU Toolchain
