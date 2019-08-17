@@ -11,8 +11,8 @@ Contents
     - [Function](#Function)
     - [Architecture](#Architecture)
 - [Hardware and Software Setup](#Hardware-and-Software-Setup)
-    - [Required hardware](#Required-hardware)
-    - [Required software](#Required-software)
+    - [Required Hardware](#Required-Hardware)
+    - [Required Software](#Required-Software)
     - [Setup detail](#Setup-detail)
 - [User Manual](#User-Manual)
 
@@ -34,14 +34,14 @@ Contents
   
 ## Hardware and Software Setup
 
-### Required hardware
+### Required Hardware
 * ARC IoT Development Kit (IoTDK) 
 * ESP8266 Wi-Fi module
 * FTDI FT2232 USB to UART module
 * Camera (Kinect or any other webcam)
 * HoloLens
 
-### Required software
+### Required Software
 * ARC GNU Toolchain
 * OPENNI (for kinect camera here)
 * OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements), and check GPU performance [here](https://docs.google.com/spreadsheets/d/1-DynFGvoScvfWDA1P4jDInCkbD4lg0IKOYbXgEq0sK0/edit#gid=0). We use GTX 1080 in this project.
