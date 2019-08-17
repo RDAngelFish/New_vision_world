@@ -59,7 +59,7 @@
 6. Configure .........
 放接線圖
 
-## Component detail
+## Component details
 
 * Kinect for Xbox 360 (Kinect) camera 
 
