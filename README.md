@@ -124,7 +124,9 @@
 * Playsound for playing music
 
 ## Run This Application
-
+1. Run ARC
+2. Connect HoloLens
+3. Run python code
 
 
 
