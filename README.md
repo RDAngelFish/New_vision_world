@@ -113,12 +113,12 @@
 # User Manual
 
 ## Before Running This Application
-* You need to install:
+* You need to install (Most software are implemented on python and you need to have GPU 1080 up):
 1. ARC GNU Toolchain
 2. OpenNI for Kinect: You can include (/OpenNI) to your file or go to [github](https://github.com/avin2/SensorKinect) for more detail.
 3. Pybind for FTDI: Download (path) to finish binding c program and python to do FTDI and more detail of FTDI FT2232 driver with [libftdi](https://www.intra2net.com/en/developer/libftdi/index.php)
-4. OpenPose
-5. LIBSVM for SVM: 
+4. OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements)
+5. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) for SVM: 
 
 ## Run This Application
 
