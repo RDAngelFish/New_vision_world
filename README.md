@@ -79,9 +79,7 @@ Contents
 
 * Support vector machines(SVM)
 
-  SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train model with 600 datas to three catrgories. The results with different setting of kernel is following:
-  
-  ![SVM_result](images/SVM_result.png)
+  SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train model with 200 data per class. 
  
 ## User Manual
 
