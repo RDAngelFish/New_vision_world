@@ -15,7 +15,9 @@ Contents
     - [Required Software](#Required-Software)
     - [Setup detail](#Setup-detail)
 - [User Manual](#User-Manual)
-
+    - [Before Running This Application](#before-running-this-application)
+    - [Run This Application](#run-this-application)
+    
 ## Introduction
 
   Due to the development of science and technology, people's concept of musical instruments of various forms has gradually changed. The somatosensory technology combined with character motion sensing and hand gesture recognition is the trend in the future. Therefore, it is thought to apply finger recognition to virtual playing instruments. This work combines the possibilities of technology and music multimedia.
@@ -100,6 +102,9 @@ Contents
  
 ## User Manual
 
+### Before Running This Application
+
+### Run This Application
 
 
 
