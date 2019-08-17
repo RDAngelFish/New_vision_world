@@ -18,38 +18,38 @@ Contents
     - [Before Running This Application](#before-running-this-application)
     - [Run This Application](#run-this-application)
     
-## Introduction
+# Introduction
 
   Due to the development of science and technology, people's concept of musical instruments of various forms has gradually changed. The somatosensory technology combined with character motion sensing and hand gesture recognition is the trend in the future. Therefore, it is thought to apply finger recognition to virtual playing instruments. This work combines the possibilities of technology and music multimedia.
 
-### Function
+## Function
 
 <div align="center"><img width="300" height="300" src="images/ARC_demo.gif"></div>
 放結果
 
-### Architecture
+## Architecture
 
   System begins in Kinect camera to get RGB information of image. Through the open source called OpenPose, we can generate skeleton of body and keypoints of two hands. Then the computer outputs these information to ARC and doing SVM algorithm to verify each instrument with many different sounds. After getting the result of verification and sounds, we output the data to HoloLens to have a real stage to perform every instuments. The main flow is following:
   
 ![Flow](images/Flow.JPG)
 
   
-## Hardware and Software Setup
+# Hardware and Software Setup
 
-### Required Hardware
+## Required Hardware
 * ARC IoT Development Kit (IoTDK) 
 * ESP8266 Wi-Fi module
 * FTDI FT2232 USB to UART module
 * Camera (Kinect or any other webcam)
 * HoloLens
 
-### Required Software
+## Required Software
 * ARC GNU Toolchain
 * OPENNI (for kinect camera here)
 * OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements), and check GPU performance [here](https://docs.google.com/spreadsheets/d/1-DynFGvoScvfWDA1P4jDInCkbD4lg0IKOYbXgEq0sK0/edit#gid=0). We use GTX 1080 in this project.
 * [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (a library for Support Vector Machines) 
 
-### Setup detail
+## Setup detail
 
 * Kinect for Xbox 360 (Kinect) camera 
 
@@ -100,11 +100,11 @@ Contents
 
   SVM is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. We train model with 200 data per class. 
  
-## User Manual
+# User Manual
 
-### Before Running This Application
+## Before Running This Application
 
-### Run This Application
+## Run This Application
 
 
 
