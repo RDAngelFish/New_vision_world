@@ -97,7 +97,7 @@ Contents
 * ARC GNU Toolchain
 * OPENNI (for kinect camera here)
 * OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements), and check GPU performance [here](https://docs.google.com/spreadsheets/d/1-DynFGvoScvfWDA1P4jDInCkbD4lg0IKOYbXgEq0sK0/edit#gid=0). We use GTX 1080 in this project.
-* LIBSVM (a library for Support Vector Machines) 
+* [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (a library for Support Vector Machines) 
 
 
 
