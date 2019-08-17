@@ -14,8 +14,6 @@ Contents
 - [User Manual](#User-Manual)
     - [Required hardware](#Required-hardware)
     - [Required software](#Required-software)
-        - [FTDI FT2232 dirver](#ftdi-ft2232-dirver)
-        - [OpenNI](#openni)
 
 ## Introduction
 
