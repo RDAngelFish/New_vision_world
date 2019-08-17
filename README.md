@@ -8,16 +8,19 @@
 Contents
 --------
 - [Introduction](#Introduction)
+    - [Function](#Function)
     - [Architecture](#Architecture)
-- [Hardware Setup](#Hardware-Setup)
-- [Software Setup](#Software-Setup)
-- [User Manual](#User-Manual)
+- [Hardware and Software Setup](#Hardware-and-Software-Setup)
     - [Required hardware](#Required-hardware)
     - [Required software](#Required-software)
+    - [Setup detail](#Setup-detail)
+- [User Manual](#User-Manual)
 
 ## Introduction
 
   Due to the development of science and technology, people's concept of musical instruments of various forms has gradually changed. The somatosensory technology combined with character motion sensing and hand gesture recognition is the trend in the future. Therefore, it is thought to apply finger recognition to virtual playing instruments. This work combines the possibilities of technology and music multimedia.
+
+### Function
 
 ### Architecture
 
@@ -26,7 +29,22 @@ Contents
 ![Flow](images/Flow.JPG)
 <div align="center"><img width="300" height="300" src="images/ARC_demo.gif"></div>
   
-## Hardware Setup
+## Hardware and Software Setup
+
+### Required hardware
+* ARC IoT Development Kit (IoTDK) 
+* ESP8266 Wi-Fi module
+* FTDI FT2232 USB to UART module
+* Camera (Kinect or any other webcam)
+* HoloLens
+
+### Required software
+* ARC GNU Toolchain
+* OPENNI (for kinect camera here)
+* OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements), and check GPU performance [here](https://docs.google.com/spreadsheets/d/1-DynFGvoScvfWDA1P4jDInCkbD4lg0IKOYbXgEq0sK0/edit#gid=0). We use GTX 1080 in this project.
+* [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (a library for Support Vector Machines) 
+
+### Setup detail
 
 * Kinect for Xbox 360 (Kinect) camera 
 
@@ -34,7 +52,7 @@ Contents
 
 * ARC
 
-  [See toolchain for much more detail.](https://github.com/foss-for-synopsys-dwc-arc-processors)
+  See [toolchain](https://github.com/foss-for-synopsys-dwc-arc-processors) and GNU Toolchain for much more detail.
   
   
   1. Start the ARC to transfer or read data.
@@ -65,10 +83,6 @@ Contents
   Microsoft HoloLens is an Augmented Reality (AR) device developed by Microsoft. It is part of the Windows Mixed Reality AR Platform incorporated with Windows 10 OS. Similar to other OHMDs (optical head-mounted displays), HoloLens is a see-through display worn over your eyes. Unlike the Oculus Rift and other VR Devices, the eye-piece component of HoloLens is transparent and the headset requires neither PC nor smartphone. It is able to project high-definition (HD) virtual content or holograms over real world objects. 
 
   ![HoloLens](images/HoloLens.jpg)
-  
-## Software Setup
-
-* ARC GNU Toolchain
 
 * OpenPose
 
@@ -83,18 +97,7 @@ Contents
  
 ## User Manual
 
-### Required hardware
-* ARC IoT Development Kit (IoTDK) 
-* ESP8266 Wi-Fi module
-* FTDI FT2232 USB to UART module
-* Camera (Kinect or any other webcam)
-* HoloLens
 
-### Required software
-* ARC GNU Toolchain
-* OPENNI (for kinect camera here)
-* OpenPose (please click [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for much more detail requirements), and check GPU performance [here](https://docs.google.com/spreadsheets/d/1-DynFGvoScvfWDA1P4jDInCkbD4lg0IKOYbXgEq0sK0/edit#gid=0). We use GTX 1080 in this project.
-* [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (a library for Support Vector Machines) 
 
 
 
