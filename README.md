@@ -113,6 +113,13 @@
 # User Manual
 
 ## Before Running This Application
+* You need to install:
+1. ARC GNU Toolchain
+2. OpenNI
+  + You can include (/OpenNI) to your file or go to [github](https://github.com/avin2/SensorKinect) for more detail.
+3. pybind
+4. OpenPose
+5. LIBSVM 
 
 ## Run This Application
 
