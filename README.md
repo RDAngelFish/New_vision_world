@@ -128,8 +128,8 @@ Real connection between ARC and FTDI and Wi-Fi module:
 2. ARC connects Wi-Fi to communicate with HoloLens
 
   * Through HoloLens connects to ARC, it will show a debug box and a buttom of connection to ARC
-  
-  ![HoloLens_connection](images/HoloLens_connection.jpg)
+    
+    ![HoloLens_connection](images/HoloLens_connection.jpg)
 
 3. ARC connects FTDI to communicate with PC
 
