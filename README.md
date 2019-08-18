@@ -86,7 +86,7 @@ Real connection between ARC and FTDI and Wi-Fi module:
 
   Microsoft HoloLens is an Augmented Reality (AR) device developed by Microsoft. It is part of the Windows Mixed Reality AR Platform incorporated with Windows 10 OS. Similar to other OHMDs (optical head-mounted displays), HoloLens is a see-through display worn over your eyes. Unlike the Oculus Rift and other VR Devices, the eye-piece component of HoloLens is transparent and the headset requires neither PC nor smartphone. It is able to project high-definition (HD) virtual content or holograms over real world objects. 
 
-  <div align="center"><img width="200" height="120" src="images/HoloLens.jpg"></div>
+  <div align="center"><img width="200" height="90" src="images/HoloLens.jpg"></div>
 
 
 * OpenPose
