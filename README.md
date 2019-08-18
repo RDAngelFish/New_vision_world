@@ -55,8 +55,9 @@
 3. Connect ARC IoT Development Kit (IoTDK) to PC (USB port) and power-supply 
 4. Connect FTDI FT2232 USB to UART module to PC (USB port)
 5. Connect HoloLens to communicate with ARC
-6. Configure .........
-  <div align="center"><img width="300" height="300" src="images/pin.jpg"></div>
+
+Pin of ARC and p_mod:
+  <div align="center"><img width="900" height="400" src="images/pin.jpg"></div>
 ## Component details
 
 * Kinect for Xbox 360 (Kinect) camera 
