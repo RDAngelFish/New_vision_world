@@ -32,7 +32,7 @@
 
   System begins in Kinect camera to get RGB information of image. Through the open source called OpenPose, we can generate skeleton of body and keypoints of two hands. Then the computer outputs these information to ARC and doing SVM algorithm to verify each instrument with many different sounds. After getting the result of verification and sounds, we output the data to HoloLens to have a real stage to perform every instuments. The main flow is following:
  
-<div align="center"><img width="900" height="400" src="images/Data_flow.JPG"></div>
+<div align="center"><img width="800" height="300" src="images/Data_flow.JPG"></div>
   
 # Hardware and Software Setup
 
@@ -57,7 +57,8 @@
 5. Connect HoloLens to communicate with ARC
 
 Pin of ARC and p_mod:
-  <div align="center"><img width="900" height="400" src="images/pin.jpg"></div>
+  <div align="center"><img width="500" height="400" src="images/pin.jpg"></div>
+  
 ## Component details
 
 * Kinect for Xbox 360 (Kinect) camera 
