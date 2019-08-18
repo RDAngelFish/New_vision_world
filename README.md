@@ -77,20 +77,21 @@ Pin of ARC and p_mod:
 
   The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. The flow is following:
 
-  <div align="center"><img width="600" height="400" src="images/WIFI.png"></div>
+  <div align="center"><img width="500" height="300" src="images/WIFI.png"></div>
 
 * HoloLens
 
   Microsoft HoloLens is an Augmented Reality (AR) device developed by Microsoft. It is part of the Windows Mixed Reality AR Platform incorporated with Windows 10 OS. Similar to other OHMDs (optical head-mounted displays), HoloLens is a see-through display worn over your eyes. Unlike the Oculus Rift and other VR Devices, the eye-piece component of HoloLens is transparent and the headset requires neither PC nor smartphone. It is able to project high-definition (HD) virtual content or holograms over real world objects. 
 
-  ![HoloLens](images/HoloLens.jpg)
+  <div align="center"><img width="300" height="150" src="images/HoloLens.jpg"></div>
+
 
 * OpenPose
 
     [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images. It has been widely used in many applications. Here, in order to verify different instruments, we gonna use body and hands information to do SVM training and testing.  
     The skeleton of body and keypoints of hands are following:
    
-   ![OpenPose_skeleton](images/OpenPose_skeleton.png)
+   <div align="center"><img width="400" height="250" src="images/OpenPose_skeleton.png"></div>
 
 * Support vector machines(SVM)
 
