@@ -57,7 +57,7 @@
 5. Connect HoloLens to communicate with ARC
 
 Pin of ARC and p_mod:
-  <div align="center"><img width="500" height="400" src="images/pin.jpg"></div>
+  <div align="center"><img width="500" height="300" src="images/pin.jpg"></div>
   
 ## Component details
 
