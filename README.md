@@ -26,7 +26,8 @@
 ## Function
 
 <div align="center"><img width="300" height="300" src="images/ARC_demo.gif"></div>
-放結果
+
+!!!!! Go for see more demo !!!!!
 
 ## Architecture
 
