@@ -58,8 +58,8 @@
 4. Connect FTDI FT2232 USB to UART module to PC (USB port)
 5. Connect HoloLens to communicate with ARC
 
-Pin of ARC and p_mod:
-  <div align="center"><img width="600" height="400" src="images/pin.jpg"></div>
+Pin of ARC, p_mod and Wi-Fi module:
+  <div align="center"><img width="900" height="400" src="images/pin.jpg"></div>
   
 Real connection between ARC and FTDI and Wi-Fi module: 
 <div align="center"><img width="400" height="350" src="images/ARC_connection.JPG"></div>  
