@@ -32,7 +32,7 @@
 
   System begins in Kinect camera to get RGB information of image. Through the open source called OpenPose, we can generate skeleton of body and keypoints of two hands. Then the computer outputs these information to ARC and doing SVM algorithm to verify each instrument with many different sounds. After getting the result of verification and sounds, we output the data to HoloLens to have a real stage to perform every instuments. 
   
-  The main flow is following:
+  * The main flow is following:
  
   <div align="center"><img width="800" height="300" src="images/Data_flow.JPG"></div>
   
@@ -58,12 +58,12 @@
 4. Connect FTDI FT2232 USB to UART module to PC (USB port)
 5. Connect HoloLens to communicate with ARC
 
-Pin of ARC, p_mod and Wi-Fi module:
+* Pin of ARC, p_mod and Wi-Fi module:
   <div align="center"><img width="900" height="400" src="images/pin.jpg"></div>
   
   
-Real connection between ARC and FTDI and Wi-Fi module: 
-<div align="center"><img width="400" height="350" src="images/ARC_connection.JPG"></div>  
+* Real connection between ARC and FTDI and Wi-Fi module: 
+  <div align="center"><img width="400" height="350" src="images/ARC_connection.JPG"></div>  
 
 ## Component details
 
@@ -81,7 +81,9 @@ Real connection between ARC and FTDI and Wi-Fi module:
 
 * WIFI – TCP/IP 
 
-  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. The flow is following:
+  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. 
+  
+  The flow is following:
 
   <div align="center"><img width="500" height="300" src="images/WIFI.png"></div>
 
