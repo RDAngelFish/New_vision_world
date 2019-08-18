@@ -32,7 +32,7 @@
 
   System begins in Kinect camera to get RGB information of image. Through the open source called OpenPose, we can generate skeleton of body and keypoints of two hands. Then the computer outputs these information to ARC and doing SVM algorithm to verify each instrument with many different sounds. After getting the result of verification and sounds, we output the data to HoloLens to have a real stage to perform every instuments. The main flow is following:
   
-![Flow](images/Flow.JPG)
+![Flow](images/Data_flow.JPG)
 
   
 # Hardware and Software Setup
@@ -57,7 +57,7 @@
 4. Connect FTDI FT2232 USB to UART module to PC (USB port)
 5. Connect HoloLens to communicate with ARC
 6. Configure .........
-放接線圖
+<div align="center"><img width="300" height="300" src="images/ARC_"></div>
 
 ## Component details
 
@@ -68,6 +68,8 @@
 * ARC
 
   See [toolchain](https://github.com/foss-for-synopsys-dwc-arc-processors) and GNU Toolchain for much more detail.
+  
+  <div align="center"><img width="300" height="300" src="images/ARC_port.JPG"></div>
   
 * USB-FTDI module
 
