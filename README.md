@@ -60,7 +60,7 @@ Pin of ARC and p_mod:
   <div align="center"><img width="600" height="400" src="images/pin.jpg"></div>
   
 Real connection between ARC and FTDI and Wi-Fi module: 
-<div align="center"><img width="600" height="400" src="images/ARC_connection.JPG"></div>  
+<div align="center"><img width="500" height="400" src="images/ARC_connection.JPG"></div>  
 
 ## Component details
 
