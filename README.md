@@ -111,8 +111,6 @@
 
 ## Run This Application
 1. Run ARC
-
-  
   * Start the ARC to transfer or read data.
   
       ![ARC_start](images/ARC_start.jpg)
@@ -123,8 +121,11 @@
   
       ![ARC_result1](images/ARC_result1.jpg)
   
-2. Connect HoloLens
-3. Run python code
+2. ARC connects Wi-Fi to communicate with HoloLens
+
+3. ARC connects FTDI to communicate with PC
+
+4. Run python code to send keypoints from PC to ARC
 
 
 
