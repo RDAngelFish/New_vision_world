@@ -81,9 +81,7 @@
 
 * WIFI – TCP/IP 
 
-  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. 
-  
-  The flow is following:
+  The WIFI module we used is ESP8266. ARC is the srver and HoloLens is the client. When HoloLens connect to ARC, ARC will transfer 32-bits data contiuously to HoloLens. The flow is following:
 
   <div align="center"><img width="500" height="300" src="images/WIFI.png"></div>
 
