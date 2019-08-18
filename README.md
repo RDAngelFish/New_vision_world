@@ -91,7 +91,7 @@ Pin of ARC and p_mod:
     [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images. It has been widely used in many applications. Here, in order to verify different instruments, we gonna use body and hands information to do SVM training and testing.  
     The skeleton of body and keypoints of hands are following:
    
-   <div align="center"><img width="300" height="250" src="images/OpenPose_skeleton.png"></div>
+   <div align="center"><img width="330" height="250" src="images/OpenPose_skeleton.png"></div>
 
 * Support vector machines(SVM)
 
