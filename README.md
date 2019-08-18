@@ -135,5 +135,6 @@ Real connection between ARC and FTDI and Wi-Fi module:
 
 4. Run python code to send keypoints from PC to ARC
 
+Go to see the demo video for much more operational details
 
 
