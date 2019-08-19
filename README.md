@@ -24,7 +24,7 @@
   Due to the development of science and technology, people's concept of musical instruments of various forms has gradually changed. The somatosensory technology combined with character motion sensing and hand gesture recognition is the trend in the future. Therefore, it is thought to apply finger recognition to virtual playing instruments. This work combines the possibilities of technology and music multimedia.
 
 ## Function
-  <div align="center"><img width="50" height="200" src="images/demo_instrument.jpg"></div>
+  <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
 
 !!!!! Go for see more demo !!!!!
 
