@@ -27,7 +27,6 @@
   <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
 
 
-!!!!! Go for see more demo (include sounds) !!!!!
 
 ## Architecture
 
@@ -137,6 +136,5 @@
 
 4. Run python code to send keypoints from PC to ARC
 
-Go to see the demo video for much more operational details.
 
 
