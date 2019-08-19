@@ -26,7 +26,8 @@
 ## Function
   <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
 
-!!!!! Go for see more demo !!!!!
+
+!!!!! Go for see more demo (include sounds) !!!!!
 
 ## Architecture
 
