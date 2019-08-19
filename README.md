@@ -21,7 +21,7 @@
     
 # Introduction
 
-  Due to the development of science and technology, people's concept of musical instruments of various forms has gradually changed. The somatosensory technology combined with character motion sensing and hand gesture recognition is the trend in the future. Therefore, it is thought to apply finger recognition to virtual playing instruments. This work combines the possibilities of technology and music multimedia.
+  Previously, musicians need to have an instrument to perform or practice, and today hand movement of many virtual instruments are detected by wearable devices. With the rapid development of technology, the image recognition of people’s movements and postures is becoming more and more accurate. Therefore, our team hopes to get information of hand movement based on image-related technology without additional wearable devices to let users play the virtual instrument more comfortably. Finally, designing an IoT process to combine more possibilities between technology and multimedia.
 
 ## Function
   <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
