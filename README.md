@@ -118,24 +118,21 @@
 * Playsound for playing music
 
 ## Run This Application
-1. Run ARC
-  * Start the ARC to transfer or read data.
+1. Run ARC and initial
   
-      ![ARC_start](images/ARC_start.jpg)
+      ![ARC_start](images/ARC_initial.JPG)
   
-  * Sure to connect correctly and start to recieve data.
+2. ARC connects FTDI to communicate with PC
   
-      ![ARC_result0](images/ARC_result0.png)
+      ![ARC_start](images/ARC_USB.png)
   
-      ![ARC_result1](images/ARC_result1.jpg)
+3. ARC connects Wi-Fi to communicate with HoloLens
   
-2. ARC connects Wi-Fi to communicate with HoloLens
-
+      ![ARC_start](images/ARC_Wifi.JPG)
+  
   * Through HoloLens connects to ARC, it will show a debug box and a buttom of connection to ARC
     
     ![HoloLens_connection](images/HoloLens_connection.jpg)
-
-3. ARC connects FTDI to communicate with PC
 
 4. Run python code to send keypoints from PC to ARC
 
