@@ -29,7 +29,7 @@ View of piano from user:
 <div align="center"><img width="330" height="200" src="images/demo_viewer.JPG"></div>
 
 Three instruments including piano, drum, and guitar viewed from HoloLens:
-  <div align="center"><img width="330" height="250" src="images/demo_bystander.jpg"></div>
+  <div align="center"><img width="300" height="220" src="images/demo_bystander.jpg"></div>
   <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
 
 
