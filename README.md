@@ -24,12 +24,12 @@
   Previously, musicians need to have an instrument to perform or practice, and today hand movement of many virtual instruments are detected by wearable devices. With the rapid development of technology, the image recognition of people’s movements and postures is becoming more and more accurate. Therefore, our team hopes to get information of hand movement based on image-related technology without additional wearable devices to let users play the virtual instrument more comfortably. Finally, designing an IoT process to combine more possibilities between technology and multimedia.
 
 ## Function
-View from users 
+View from user:
 
-<div align="center"><img width="330" height="200" src="images/demo_viewer.JPG"></div><div align="center"><img width="330" height="200" src="images/demo_bystander.jpg"></div>
+<div align="center"><img width="330" height="200" src="images/demo_viewer.JPG"></div><div align="center">
 
-Three instruments including piano, drum, and guitar viewed from HoloLens.
-
+Three instruments including piano, drum, and guitar viewed from HoloLens:
+  <img width="330" height="300" src="images/demo_bystander.jpg"></div>
   <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
 
 
