@@ -26,10 +26,10 @@
 ## Function
 View from user:
 
-<div align="center"><img width="330" height="200" src="images/demo_viewer.JPG"></div><div align="center">
+<div align="center"><img width="330" height="200" src="images/demo_viewer.JPG"></div>
 
 Three instruments including piano, drum, and guitar viewed from HoloLens:
-  <img width="330" height="300" src="images/demo_bystander.jpg"></div>
+  <div align="center"><img width="330" height="250" src="images/demo_bystander.jpg"></div>
   <div align="center"><img width="850" height="200" src="images/demo_instrument.jpg"></div>
 
 
