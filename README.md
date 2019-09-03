@@ -40,7 +40,7 @@ Three instruments including piano, drum, and guitar viewed from HoloLens:
   
   * The main flow is following:
  
-  <div align="center"><img width="800" height="300" src="images/Data_flow.JPG"></div>
+  <div align="center"><img width="800" height="300" src="images/dataflow.JPG"></div>
   
 # Hardware and Software Setup
 
